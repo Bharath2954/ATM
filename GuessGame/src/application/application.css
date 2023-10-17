@@ -1,0 +1,32 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#ttle{
+	-fx-text-transform: uppercase;
+	-fx-font-family: "System UI", "Arial", sans-serif;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-text-fill: black;
+}
+.btn{
+	-fx-pref-height: 30px;
+	-fx-pref-width: 210px;
+	-fx-background-color: black;
+	-fx-font-family: "Arial", sans-serif;
+    -fx-font-size: 10px;
+    -fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+#Lbl{
+	-fx-text-transform: uppercase;
+	-fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-font-style: italic;
+    -fx-text-fill: black;
+    -fx-font-family: "Arial", sans-serif;
+}
+.RES{
+	-fx-font-size: 12px;
+	-fx-font-weight: bold;
+	-fx-font-family: "Cambria", "Times New Roman", serif;
+	-fx-text-fill: red;
+}
